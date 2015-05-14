@@ -1,0 +1,16 @@
+{
+  "name": "sensor-tag-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Don Coleman",
+  "license": "ISC",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "noble": "^0.3.14",
+    "sensortag": "^1.0.0"
+  }
+}
